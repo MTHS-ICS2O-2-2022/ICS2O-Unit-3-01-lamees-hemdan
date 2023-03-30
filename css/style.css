@@ -11,13 +11,11 @@
   opacity: 0.001;
 }
 
-
 .mdl-layout__header-row {
   justify-content: center;
   padding: 0;
   color: beige;
 }
-
 
 .mdl-layout__content {
   padding-left: 30pt;
@@ -26,23 +24,19 @@
   color: violet;
 }
 
-
 .mdl-textfield__input {
   color: black;
 }
 
-
 .page-content {
-  color: black;
+  color: violet;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 3rem;
 }
 
-
 body {
-  background-color: palegoldenrod;
+  background-color: lightgray;
 }
-
 
 img {
   float: right;
